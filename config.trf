@@ -1,0 +1,6 @@
+// compile string:
+// g++ main.cc -o parser -std=c++17
+
+
+server.bind.ip = "127.0.0.1";
+server.port    = 8080;
